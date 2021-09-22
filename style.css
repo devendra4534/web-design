@@ -1,8 +1,5 @@
-body {
-    font-size: 45pt;
-}#first{
-  background-color: red;
-}
-.first{
-  background-color: aqua;
+body{
+  size: 30pt;
+  color: white;
+  background-color: black;
 }
